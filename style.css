@@ -1,7 +1,6 @@
 body {
-  min-height: 2000px;
-}  
-.jumbotron {
-  padding: 1rem;
-  bacground-color: #e2edff
+  font: 1rem/1.5 var(--bs-font-sans-serif);
+}
+a {
+  color: var(--bs-blue);
 }

@@ -59,27 +59,6 @@ margin-top: 250px;
 .artikel {
     margin-top: 10px;
 }
-.scholar{
-    background: #1f2d52;
-}
-.section-header h2{
-    color: #fff;
-}
-.section-header p{
-    color: #fff;
-}
-.partners h2{
-    color: #000;
-}
-.partners p{
-    color: #000;
-}
-.blog h2{
-    color: #000;
-}
-.blog p{
-    color: #000;
-}
 footer{
     background: #A41034;
     height: auto;
@@ -174,4 +153,28 @@ footer{
     .card{
         margin-bottom: 30px;
     }
+}
+@media only screen {
+    .scholar{
+    background: #1f2d52;
+}
+.section-header h2{
+    color: #fff;
+}
+.section-header p{
+    color: #fff;
+}
+.partners h2{
+    color: #000;
+}
+.partners p{
+    color: #000;
+}
+.blog h2{
+    color: #000;
+}
+.blog p{
+    color: #000;
+}
+    
 }
